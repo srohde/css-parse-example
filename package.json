@@ -1,0 +1,25 @@
+{
+  "name": "css-parse-test",
+  "version": "0.1",
+  "description": "CSS parser test",
+  "keywords": [
+    "css",
+    "parser",
+    "stylesheet"
+  ],
+  "author": {
+    "name": "Sönke Rohde",
+    "email": "soenke.rohde@gmail.com"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "dependencies": {
+    "css-parse": "~1.5.2",
+    "marked": "~0.2.9",
+    "highlight.js": "~7.3.0",
+    "ent": "~0.1.0"
+  }
+}

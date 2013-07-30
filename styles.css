@@ -1,0 +1,13 @@
+/*
+Example for my button
+
+    <button class='my-button'>My Button</button>
+*/
+.my-button {
+  background: white;
+  color: #ff9900;
+}
+
+.someStyle {
+  color: #ff9900;
+}
