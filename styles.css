@@ -8,6 +8,11 @@ Example for my button
   color: #ff9900;
 }
 
-.someStyle {
+/*
+Example for orange label
+
+    <span class='orangeLabel'>An orange label</span>
+*/
+.orangeLabel {
   color: #ff9900;
 }
